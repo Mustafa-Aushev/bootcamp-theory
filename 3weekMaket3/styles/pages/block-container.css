@@ -1,0 +1,17 @@
+
+.premier{
+    display: flex;
+    justify-content: center;
+    height: 740px;
+}
+.block-container{
+    width: 1020px;
+height: 64px;
+
+}
+.block-container2{
+    width: 1020px;
+    height: 64px;
+    background: #f9fafc;
+    }
+    

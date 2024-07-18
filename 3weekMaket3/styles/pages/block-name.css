@@ -1,0 +1,26 @@
+.col-name{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.col-name__title{
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 14px;
+line-height: 143%;
+letter-spacing: 0.02em;
+color: #171c26;
+width: 150px;
+height: 20px;
+}
+.col-number{
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+letter-spacing: 0.03em;
+color: #687182;
+width: 100px;
+height: 18px;
+}

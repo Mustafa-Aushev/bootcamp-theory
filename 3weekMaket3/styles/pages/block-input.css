@@ -1,0 +1,18 @@
+.block-input{
+display: flex;
+}
+input{
+    width: 16px;
+    height: 16px;
+    top: 12px;
+    left: 12px;
+}
+strong{
+    width: 7px;
+    height: 20px;
+    font-family: inter;
+    font-family: 500;
+    font-size: 14px;
+    line-height: 20px;
+    
+}

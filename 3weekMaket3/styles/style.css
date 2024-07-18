@@ -1,4 +1,11 @@
 @import url(./pages/p.css);
+@import url(./pages/block-name.css);
+@import url(./pages/block.css);
+@import url(./pages/span.css);
+@import url(./pages/block-rate.css);
+@import url(./pages/block-container.css);
+@import url(./pages/block-input.css);
+
 
 *{
     margin: 0;

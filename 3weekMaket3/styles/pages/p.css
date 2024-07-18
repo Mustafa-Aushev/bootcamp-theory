@@ -1,4 +1,12 @@
-.col-desc{
+.block-desc{
     width: 238px;
     height: 40px;
 }
+.col-desc{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: #464f60;
+
+    }
