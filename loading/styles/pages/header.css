@@ -1,0 +1,27 @@
+.header {
+  height: 96px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-wrap {
+  width: 1240px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.nav-list {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.nav-list li a {
+  color: #000000;
+  font-family: satoshi;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
