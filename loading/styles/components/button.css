@@ -1,10 +1,13 @@
 .btn {
-  background-color: #000000;
-  width: 210px;
+  font-family: nunito;
   height: 52px;
   border-radius: 62px;
-  color: #ffffff;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
+}
+.btn-outline {
+  background-color: #000000;
+  color: #ffffff;
+  width: 210px;
 }
