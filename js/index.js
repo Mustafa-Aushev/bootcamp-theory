@@ -360,11 +360,11 @@
 // Объявление объекта с вложенными объектами
 // 50. Объявите объект student с вложенными объектами address и grades.
 
-// let student = {
-//     adress: {
-//       city: Nazran,
-//     },
-//     grades: {
-//       grades: 5,
-//     },
-//   };
+let student = {
+    adress: {
+      city: Nazran,
+    },
+    grades: {
+      grades: 5,
+    },
+  };
